@@ -1,0 +1,3 @@
+rootProject.name='AndroidLoggingExample'
+include ':app'
+include ':logging-util'
